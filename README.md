@@ -69,6 +69,12 @@ Interactive filters were created for:
 * Gender
 * Card Category
 
+## Dashboard Preview
+
+<img width="1901" height="1015" alt="Screenshot 2026-08-18 141550" src="https://github.com/user-attachments/assets/759bbb49-070f-4884-83ba-b88e968c65b7" />
+
+
+
 ### Page 2 — Credit Card Customer
 
 Created a customer-focused dashboard to analyze:
