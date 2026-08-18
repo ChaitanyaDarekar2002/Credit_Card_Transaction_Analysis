@@ -97,6 +97,10 @@ Interactive filters allow users to analyze the dashboard by:
 * Gender
 * Card Category
 * Marital Status
+## Dashboard Preview
+
+<img width="1906" height="1021" alt="Screenshot 2026-08-18 141639" src="https://github.com/user-attachments/assets/2e3f5934-59b7-45be-930f-9033ccd2f33e" />
+
 
 ## DAX
 
